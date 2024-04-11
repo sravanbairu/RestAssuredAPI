@@ -15,13 +15,13 @@ This is a sample API test automation framework built using Java, Maven, RestAssu
            
                   └── cucumber.Options
                   
-     └── TestRunner.java
+                        └── TestRunner.java
      
-         └── features
+                  └── features
          
 │                    └── checkRateValidation.feature
 
-│       │   └── stepDefinitions
+│                 └── stepDefinitions
 
 │       │         └── CheckBitCoinRate.java  
 
