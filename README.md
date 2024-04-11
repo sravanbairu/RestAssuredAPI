@@ -19,11 +19,11 @@ This is a sample API test automation framework built using Java, Maven, RestAssu
      
                   └── features
          
-│                    └── checkRateValidation.feature
+│                       └── checkRateValidation.feature
 
-│                 └── stepDefinitions
+│                  └── stepDefinitions
 
-│       │         └── CheckBitCoinRate.java  
+│       │               └── CheckBitCoinRate.java  
 
           ── pom.xml
           
