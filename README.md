@@ -1,4 +1,4 @@
-API Test Automation Framework using RestAssured and Cucumber
+API Test Automation Framework using RestAssured, Java, Maven and Cucumber with JUnit
 
 This is a sample API test automation framework built using Java, Maven, RestAssured, and Cucumber. It allows you to test the Coinbase API to retrieve the current price for Bitcoin and print the Bitcoin rate in GBP.
 
